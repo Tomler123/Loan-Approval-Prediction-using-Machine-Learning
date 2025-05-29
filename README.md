@@ -17,13 +17,6 @@ A predictive analytics project that builds and compares multiple machine-learnin
 1. [Features](#-features)  
 2. [Tech Stack](#-tech-stack)  
 3. [Getting Started](#-getting-started)  
-4. [Dataset](#-dataset)  
-5. [Usage](#-usage)  
-6. [Modeling & Evaluation](#-modeling--evaluation)  
-7. [Results](#-results)  
-8. [Future Improvements](#-future-improvements)  
-9. [License](#-license)  
-10. [Author](#-author)
 
 ---
 
